@@ -1,2 +1,2 @@
 # Calculate-Rectangle
-a simple application to calculate the square area of a rectangle
+a simple Netbeans application to calculate the square area of a rectangle
